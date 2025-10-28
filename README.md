@@ -1,4 +1,4 @@
-# RSE-Workshop-Python
+# Python Workshop Series @ WVU Libraries
 
 ## Overview
 
